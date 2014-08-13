@@ -9,7 +9,7 @@ keys:
     - /Users/thjoseph/.ssh/id_rsa
 
 folders:
-    - map: /Users/thjoseph/Office_Projects/php-works/laravel-vagrant
+    - map: /Users/thjoseph/Office_Projects/php-works/laravel-vagrant/Sites
       to: /home/vagrant/Code
 
 sites:
